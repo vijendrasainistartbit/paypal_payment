@@ -1,4 +1,4 @@
-# Paypal-Payment-Gateway-Integration-in-PHP
+# Paypal-Payment-Gateway-Integration-in-CodeIgniter-PHP
 
 Configure PayPal Auto Return and Payment Data Transfer - 
 
